@@ -20,7 +20,7 @@ This project was a refactor of the HoriSEOn webpage to improve maintainability a
 
 ## Links
 
-[HoriSEOn page](https://lauracole1900.github.io/homework01/)
+[HoriSEOn page](https://lauracole1900.github.io/horiSEOnCodeRefactor/)
 
 ## Screenshots
 
@@ -57,4 +57,4 @@ If you have further questions, you can reach me at lauracole1900@comcast.net. Fo
 
 ## Badges
 
-![License badge](https://img.shields.io/badge/license-MIT-brightgreen) [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/LauraCole1900/codeRefactor)
+![License badge](https://img.shields.io/badge/license-MIT-brightgreen) [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/LauraCole1900/horiSEOnCodeRefactor)
