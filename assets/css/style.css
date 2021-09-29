@@ -5,7 +5,7 @@
   --articleBlue: #0072bb;
   --asideBlue: #2589bd;
   --headerBlue: #2a607c;
-  --bodyFont: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  --bodyFont: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS", sans-serif;
   --headerFont: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 }
