@@ -37,7 +37,7 @@ This project is intended to be used as the webpage for the fictional company Hor
 
 ## Technologies Used
 
-![HTML5](https://img.shields.io/badge/built%20with-HTML5-f06529) ![CSS3](https://img.shields.io/badge/built%20with-CSS3-2965f1)
+[![HTML5](https://img.shields.io/badge/built%20with-HTML5-f06529)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) [![CSS3](https://img.shields.io/badge/built%20with-CSS3-2965f1)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Tests
 
